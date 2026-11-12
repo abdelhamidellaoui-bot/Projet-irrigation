@@ -172,8 +172,8 @@ projet_irrigation/
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/ELLAOUI/projet-irrigation.git
-cd projet-irrigation
+git clone github.com/abdelhamidellaoui-bot/Projet-irrigation.git
+cd Projet-irrigation
 
 # 2. Installer les dépendances Python
 pip install pandas matplotlib
@@ -187,5 +187,4 @@ Ensuite : exécuter `sql/analyses.sql`, lancer `export.py`, puis reproduire les 
 ## 10. Auteur et licence
 
 **Auteur** : ELLAOUI Abdelhamid– [GitHub](https://github.com/abdelhamidellaoui-bot)
-
 **Licence** : MIT (à adapter).
