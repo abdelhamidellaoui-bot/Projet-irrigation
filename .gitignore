@@ -1,0 +1,10 @@
+*.gdb/
+*.lock
+*.aprx
+*.atbx
+.backups/
+Backups/
+GpMessages/
+ImportLog/
+Index/
+__pycache__/
